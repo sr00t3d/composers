@@ -1,3 +1,7 @@
+1. Create certs.yml in /www/server/panel/data/compose/wazuh/
+
+2. Run comands:
+
 ```bash
 cd /www/server/panel/data/compose/wazuh/
 rm -rf wazuh-certificates
